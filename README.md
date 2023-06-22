@@ -2,6 +2,7 @@
 All Versions and update logs.
 
 Link to the mod: 
+MCreator: https://mcreator.net/modification/97972/craftable-bedrock-mod
 
 Info about the mod: 
 This mods adds a recipe for bedrock
