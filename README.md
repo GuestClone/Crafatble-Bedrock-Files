@@ -18,4 +18,4 @@ will upgrade few items into the bedrock items.
 
 Credits:
 All Credit goes to the author and creator of this mod and credit to Mcreator.
-You may Alter the mod for your own uses BUT you may not distribute this mod without permission.
+You may Alter, Edit, Add new elements to the mod for your own uses BUT you may not distribute this mod without permission.
