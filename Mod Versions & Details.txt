@@ -1,0 +1,84 @@
+--------------------------------
+
+Credits to the Creator RcloneBm22 and MCreator of this mod.
+
+================================
+
+Recipe 1.12.2:
+
+Bedrock Recipe = 1 obsidian at each corner, 1 diamond blocks at each side and 
+1 nether star in the center.
+
+Nether Star Recipe = 1 bucket of lava in each corner, 1 bedrock in each sides and one eye of ender in the center.
+
+=================================
+
+
+
+
+
+
+==================================
+
+Details of each Version: - 1.12.2
+
+CrBe_1.0.0.a - Adds Craftable bedrock made from nether star, diamond blocks and obsidian.
+
+CrBe_1.0.1.a - Adds Craftable Nether Star but can only be made after making the bedrock this means you have to kill the wither for you to make the bedrock and to make more nether star.
+
+CrBe_1.0.2.a - Adds an ingot which is called the Bedrock Ingot made from melting a bedrock in a furnace, also adds another crafting recipe, Might have also gone to crazy with the ingot item because it has 500 attack damage But the texture is broken.
+
+CrBe_1.0.3.a - Fixed the Bedrock ingot having 500 damage and is reduced to 14.
+
+CrBe_1.0.4.a - Tested version nothing happened
+
+CrBe_1.0.5.a - Fixed the bedrock ingot texture and also added 3 new tools.
+
+CrBe_1.0.6.b - Beta, Added a bedrock stick and added a recipe for the 3 new tools.
+
+CrBe_1.0.7.b - Beta, Added Bedrock Armor And its recipes.
+
+CrBe_1.0.8.a - Back to alpha minor change made the Nether star recipe output to four instead of three.
+
+CrBe_1.0.9.a - Making the bedrock pickaxe break bedrock.
+
+CrBe_1.1.0.r - Release, Finished fixing textures and added bedrock shovel and hoe, also made bedrock pickaxe able to break bedrock by right clicking on it also lowered down the pickaxe speed.
+
+CrBe_1.1.1.b - Beta phase added a potion and updated the armors and tools, tools are now unbreakable and wont show any green line of tool usage, also made some of the items have low damage.
+
+CrBe_1.1.2.b - Updated the table now is known as the upgrade table, diamond armor and tools will be upgraded into bedrock and special 4 items that can be turned into.
+
+List of the upgradable Items:
+
+---Diamond Armor---
+
+---Diamond Tools---
+
+Special four:
+
+Iron Ingot which can turn into Bedrock Ingot,
+
+Anvil which can turn into Upgrading table,
+
+Obsidian block which can turn into bedrock,
+
+Stick which can turn into Bedrock Stick.
+
+Another tip place only one item per use because there is bug which only lets one item be upgraded and also take out the upgraded item because if you use the table to upgrade another item that item will disappear.
+
+But these will be fixed in the next update, Even the texture of the upgrade table will be chaned.
+
+CrBe_1.1.3.b - Updated damages and attack speeds on tools, also added new blocks, liquid and items, also made an upgrade table which can upgrade armor and tools,
+
+In order: Armor: Leather -> Chainmail -> Iron -> Gold -> Diamond -> Bedrock
+
+Tools in order: Wooden -> Stone -> Gold -> Iron -> Diamond -> Bedrock
+
+I got messed up on the gold and iron part.
+
+And an addition golden apples, Apple -> Golden apple -> Enchanted Golden Apple
+
+TIP: Remove the item in the output slot as these slot does not stack so please remove the item in it or else when you upgrad another item the item you upgraded wont replace the item in the output slot but make it disappear.
+
+
+CrBe_1.1.5.b - Armor and tools are now unbreakable, can still be enchanted but unbreaking wont work for it (because ofc).
