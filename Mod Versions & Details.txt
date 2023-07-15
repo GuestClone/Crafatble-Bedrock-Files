@@ -82,3 +82,14 @@ TIP: Remove the item in the output slot as these slot does not stack so please r
 
 
 CrBe_1.1.5.b - Armor and tools are now unbreakable, can still be enchanted but unbreaking wont work for it (because ofc).
+
+CrBe_1.1.6.r - Changed armor Recipes (prevent interference from other bedrock mods)
+same with the bedrock tools,
+Added a volcanic gem/ore - Planning to add something with it. 
+-Now updated to forge version: 14.23.5.2855---1.12.2
+-Now requires full set to activate effect
+-Made the bedrock items get the unbreakable blue tag when enchanted by anything and also it is able to be enchanted with unbreaking 1, 2 or 3 "But Rmb22 why use unbreaking enchantment just to make your tool unbreakable"- Idk, i said any enchantment can make it unbreakable.
+-Also added in a block that makes items unbreakable aswell, (Credits to Cursed Warrior for making that tutorial in youtube) -Though it didnt work so i had to change the nbt from unbreaking to enchanted now only enchanted items can get turned into unbreakable.
+-Few items still have some textures being worked on.
+
+
